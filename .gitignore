@@ -602,3 +602,7 @@ vmidentity/lightwaveui/web/share
 # hmake files
 .hmake
 .hmakerc
+
+#CMake ignore items
+lwraft/build/*
+vmdir/build/*
