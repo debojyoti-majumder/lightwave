@@ -606,3 +606,4 @@ vmidentity/lightwaveui/web/share
 #CMake ignore items
 lwraft/build/*
 vmdir/build/*
+lwraft/.vscode/settings.json
